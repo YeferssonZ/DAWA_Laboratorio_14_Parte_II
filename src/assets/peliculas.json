@@ -1,0 +1,197 @@
+[
+  {
+    "titulo": "Godzilla contra Mechagodzilla (1974)",
+    "genero": "Acción",
+    "lanzamiento": 1974
+  },
+  {
+    "titulo": "La La Land",
+    "genero": "Musical",
+    "lanzamiento": 2016
+  },
+  {
+    "titulo": "Ciudadano Kane",
+    "genero": "Drama",
+    "lanzamiento": 1941
+  },
+  {
+    "titulo": "Shrek",
+    "genero": "Animación",
+    "lanzamiento": 2001
+  },
+  {
+    "titulo": "Suzume",
+    "genero": "Animación",
+    "lanzamiento": 2022
+  },
+  {
+    "titulo": "Jurassic Park",
+    "genero": "Aventura",
+    "lanzamiento": 1993
+  },
+  {
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "genero": "Fantasía",
+    "lanzamiento": 2001
+  },
+  {
+    "titulo": "The Prince of Egypt",
+    "genero": "Animación",
+    "lanzamiento": 1998
+  },
+  {
+    "titulo": "Ratatouille",
+    "genero": "Animación",
+    "lanzamiento": 2007
+  },
+  {
+    "titulo": "El Silencio de los Corderos",
+    "genero": "Thriller",
+    "lanzamiento": 1991
+  },
+  {
+    "titulo": "Forrest Gump",
+    "genero": "Drama",
+    "lanzamiento": 1994
+  },
+  {
+    "titulo": "The Road to El Dorado",
+    "genero": "Animación",
+    "lanzamiento": 2000
+  },
+  {
+    "titulo": "Parasite",
+    "genero": "Comedia negra",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "Godzilla: El Rey de los Monstruos (2019)",
+    "genero": "Acción",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "Blade Runner",
+    "genero": "Ciencia ficción",
+    "lanzamiento": 1982
+  },
+  {
+    "titulo": "El Rey León",
+    "genero": "Animación",
+    "lanzamiento": 1994
+  },
+  {
+    "titulo": "Rodan (1956)",
+    "genero": "Acción",
+    "lanzamiento": 1956
+  },
+  {
+    "titulo": "Shrek 2",
+    "genero": "Animación",
+    "lanzamiento": 2004
+  },
+  {
+    "titulo": "Matrix",
+    "genero": "Ciencia ficción",
+    "lanzamiento": 1999
+  },
+  {
+    "titulo": "Godzilla vs Kong",
+    "genero": "Acción",
+    "lanzamiento": 2021
+  },
+  {
+    "titulo": "The Boss Baby",
+    "genero": "Animación",
+    "lanzamiento": 2017
+  },
+  {
+    "titulo": "Up",
+    "genero": "Animación",
+    "lanzamiento": 2009
+  },
+  {
+    "titulo": "El Mago de Oz",
+    "genero": "Fantasía",
+    "lanzamiento": 1939
+  },
+  {
+    "titulo": "Godzilla contra Gigan (1972)",
+    "genero": "Acción",
+    "lanzamiento": 1972
+  },
+  {
+    "titulo": "Godzilla: Planeta de Monstruos (2017)",
+    "genero": "Animación",
+    "lanzamiento": 2017
+  },
+  {
+    "titulo": "Seven",
+    "genero": "Crimen",
+    "lanzamiento": 1995
+  },
+  {
+    "titulo": "La Vida es Bella",
+    "genero": "Comedia dramática",
+    "lanzamiento": 1997
+  },
+  {
+    "titulo": "Shrek the Third",
+    "genero": "Animación",
+    "lanzamiento": 2007
+  },
+  {
+    "titulo": "Titanic",
+    "genero": "Romance",
+    "lanzamiento": 1997
+  },
+  {
+    "titulo": "E.T. el Extraterrestre",
+    "genero": "Ciencia ficción",
+    "lanzamiento": 1982
+  },
+  {
+    "titulo": "El Graduado",
+    "genero": "Comedia dramática",
+    "lanzamiento": 1967
+  },
+  {
+    "titulo": "Shrek Forever After",
+    "genero": "Animación",
+    "lanzamiento": 2010
+  },
+  {
+    "titulo": "El Resplandor",
+    "genero": "Terror",
+    "lanzamiento": 1980
+  },
+  {
+    "titulo": "La Lista de Schindler",
+    "genero": "Drama",
+    "lanzamiento": 1993
+  },
+  {
+    "titulo": "Shrek the Halls",
+    "genero": "Animación",
+    "lanzamiento": 2007
+  },
+  {
+    "titulo": "Shin Godzilla (2016)",
+    "genero": "Acción",
+    "lanzamiento": 2016
+  },
+  {
+    "titulo": "Godzilla X Kong",
+    "genero": "Acción",
+    "lanzamiento": 2024
+  },
+  {
+    "titulo": "Godzilla: Minus One",
+    "genero": "Acción",
+    "lanzamiento": 2023
+  },
+  {
+    "titulo": "La Sirenita",
+    "genero": "Animación",
+    "lanzamiento": 1989
+  }
+]
